@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1>My Website</h1>
+      <h1>Book App</h1>
       <nav>
         <ul>
           <li>
