@@ -1,0 +1,15 @@
+.book-details {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 20px;
+  }
+  .book-details h2 {
+    margin-bottom: 20px;
+  }
+  .book-details h3 {
+    margin-top: 0;
+  }
+  .book-details p {
+    margin-bottom: 10px;
+  }
